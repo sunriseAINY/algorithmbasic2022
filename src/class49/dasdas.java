@@ -1,6 +1,6 @@
 package class49;
 
 public class dasdas {
-    int anInt = 1;
+    int anInt = 0;
     int b = 0;
 }
